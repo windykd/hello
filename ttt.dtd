@@ -1,4 +1,3 @@
-
 <!ENTITY % file SYSTEM "file:../conf/localconfig.xml">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
